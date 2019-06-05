@@ -34,5 +34,6 @@ namespace GitHubSubmit
             bundles.Add(new ScriptBundle("~/bundles/modernizr").Include(
                             "~/Scripts/modernizr-*"));
         }
-    }
+
+       
 }
